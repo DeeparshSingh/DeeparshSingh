@@ -7,7 +7,6 @@
 - 💡 Actively developing innovative projects with a focus on **distributed systems, multi-tiered systems, and database management**
 - 🤝 Open to collaborating on exciting projects in **Cloud Computing, Artificial Intelligence,** and **Software Engineering**
 - 💌 Feel free to reach out to me at **deeparshsingh10@gmail.com** for collaborations or just to say hi! I'm always open to new connections and opportunities.
-- 🌟 Fun fact: I'm a tech mentor, assisting others in exploring cutting-edge tech like AI and 3D printing at Makerspace
 
 ### Let's Connect:
 
