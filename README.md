@@ -12,7 +12,7 @@
 ### Let's Connect:
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/deeparsh-singh-dang-945295122" target="blank">
+    <a href="https://www.linkedin.com/in/deeparsh010/" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deeparsh-singh-dang" height="30" width="40" style="border-radius: 15px;" />
     </a>
 </p>
