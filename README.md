@@ -36,6 +36,12 @@
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
     </a>
+    <a href="https://www.adobe.com/ca/products/premiere.html" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/premierepro/premierepro-original.svg" alt="PremierePro" width="40" height="40"/>
+    </a>
+    <a href="https://www.adobe.com/ca/products/photoshop.html" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/photoshop/photoshop-original.svg" alt="Photoshop" width="40" height="40"/>
+    </a>
 </p>
 
 ## Projects 🛠
