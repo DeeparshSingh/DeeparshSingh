@@ -1,12 +1,12 @@
-<h1 align="center">Hello! 👋 I'm Deeparsh Singh Dang</h1>
-<h3 align="center">An Enthusiastic Computing Science Student & Developer on a Journey to Excellence</h3>
+<h1 align="center">Hello! 👋 I'm Deeparsh Singh</h1>
+<h3 align="center">An Enthusiastic Computing Science Student & Developer on a Journey of learning and growth</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="border-radius: 15px;">
 
-- 🎓 Currently pursuing a **Bachelor of Computing Science** at Thompson Rivers University with a stellar GPA of 4.17/4.33
-- 🔧 Proficient in **Python, Java, C++, SQL**, and well-versed in **AWS** cloud technologies (EC2, S3, RDS)
+- 🎓 Currently pursuing a **Bachelor of Computing Science** at Thompson Rivers University
+- 🔧 Proficient in **Python, Java, C++, SQL**, and well-versed in **AWS** cloud technologies (EC2, S3, RDS, Lambda)
 - 💡 Actively developing innovative projects with a focus on **distributed systems, multi-tiered systems, and database management**
-- 🤝 Open to collaborating on exciting projects in **Cloud Computing, Android Development,** and **Software Engineering**
-- 💌 Feel free to reach out to me at **deeparshsingh10@gmail.com** for collaborations or just to say hi!
+- 🤝 Open to collaborating on exciting projects in **Cloud Computing, Artificial Intelligence,** and **Software Engineering**
+- 💌 Feel free to reach out to me at **deeparshsingh10@gmail.com** for collaborations or just to say hi! I'm always open to new connections and opportunities.
 - 🌟 Fun fact: I'm a tech mentor, assisting others in exploring cutting-edge tech like AI and 3D printing at Makerspace
 
 ### Let's Connect:
