@@ -1,6 +1,6 @@
 <h1 align="center">Hello! 👋 I'm Deeparsh Singh</h1>
 <h3 align="center">An Enthusiastic Computing Science Student & Developer on a Journey of learning and growth</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="border-radius: 15px;">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" style="border-radius: 15px;">
 
 - 🎓 Currently pursuing a **Bachelor of Computing Science** at Thompson Rivers University
 - 🔧 Proficient in **Python, Java, C++, SQL**, and well-versed in **AWS** cloud technologies (EC2, S3, RDS, Lambda)
