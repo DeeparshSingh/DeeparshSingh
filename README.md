@@ -66,6 +66,7 @@
 
 - **MolecuLens** 🧬: An AI-powered drug discovery platform built with **Next.js, Python, FastAPI, and DeepChem**, enabling students to test molecules against disease proteins instantly using machine learning.
 - **PixelCraft** 🎨: A generative pixel art tool developed using **Python** and **NumPy**, employing a genetic algorithm to create art from images.
+- **Sahali Animal Hospital** 🏥: A modern, professional veterinary clinic website built with **React, TypeScript, Vite, and Tailwind CSS**, featuring a dynamic blog system and secure client forms.
 - **AutoVault - Car Rental Management System** 🚗: Designed a relational database system using **SQL, PL/SQL** to manage client reservations, cars, and business logic.
 - **CalSync - Automated Schedule Processor** 📅: Developed a serverless system using **AWS Lambda** and **Python** to automate PDF-to-calendar processes, significantly reducing manual scheduling work.
 
